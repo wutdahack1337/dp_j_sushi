@@ -1,7 +1,7 @@
 # dp_j_sushi
 dp_j thiệt là nhức cái đầu
 
-Hôm nay làm bài [Sushi](https://atcoder.jp/contests/dp/tasks/dp_j), nó kêu tính giá trị kỳ vọng, t suy nghĩ nửa ngày không ra, t đọc sol nửa ngày cũng không hiểu. Nhưng may mắn thay, t kiếm thấy một cái sol dễ hiểu, t để đây để t của tương lai coi lại.
+Hôm nay làm bài [Sushi](https://atcoder.jp/contests/dp/tasks/dp_j), nó kêu tính giá trị kỳ vọng, t suy nghĩ nửa ngày không ra, t đọc sol nửa ngày cũng không hiểu. Nhưng may mắn thay, t kiếm thấy [một cái sol dễ hiểu](https://codeforces.com/blog/entry/64250?#comment-483308), t để đây để t của tương lai coi lại.
 
 Gọi **f[a][b][c]** là số lượt kỳ vọng để ăn hết 1a + 2b + 3c cái sushi trên n dĩa. Cho **k** = a + b + c
 
